@@ -188,7 +188,7 @@ footer .sociais {
     font-size: 13px;
 }
 
-@media screen and (min-width: 375px) and (max-width: 460px) {
+@media screen and (min-width: 375px) and (max-width: 560px) {
     .section-header {
         padding-top: 22px;
         text-align: center;
@@ -207,6 +207,10 @@ footer .sociais {
     }
 
 
+
+    .home .esquerdo{
+        padding-top: 62px;
+    }
 
     .home .esquerdo h1 {
         font-size: 1.9em;
@@ -256,7 +260,9 @@ footer .sociais {
         line-height: 18px;
     }
 
-
+    .home .esquerdo{
+        padding-top: 62px;
+    }
 
     .home .esquerdo h1 {
         font-size: 1.7em;
