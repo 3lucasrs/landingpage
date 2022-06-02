@@ -21,6 +21,7 @@
     background-size: cover;
 }
 
+
 .home .esquerdo h1 {
     font-size: 2.6em;
     color: #012970;
@@ -131,6 +132,7 @@
 
 .contact {
     padding-bottom: 40px;
+    
 }
 
 .contato {
@@ -207,11 +209,6 @@ footer .sociais {
     }
 
 
-
-    .home .esquerdo{
-        padding-top: 62px;
-    }
-
     .home .esquerdo h1 {
         font-size: 1.9em;
     }
@@ -225,9 +222,8 @@ footer .sociais {
     }
 
     .home {
-        height: 70vh;
+        height: 100vh;
     }
-
 
 
     .about .direito img {
@@ -260,9 +256,6 @@ footer .sociais {
         line-height: 18px;
     }
 
-    .home .esquerdo{
-        padding-top: 62px;
-    }
 
     .home .esquerdo h1 {
         font-size: 1.7em;
@@ -277,7 +270,7 @@ footer .sociais {
     }
 
     .home {
-        height: auto;
+        height: 100vh;
     }
 
 
